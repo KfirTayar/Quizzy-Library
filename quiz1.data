@@ -1,0 +1,39 @@
+Quiz name:
+Quiz Demo
+Quiz type:
+GUI
+
+Quiz questions:
+Title:
+We Love Canada
+Question:
+Canada starts with…?
+Answers:
+Canada starts with the letter 'A'.,false
+Canada starts with the letter 'B'.,false
+Canada starts with the letter 'C'.,true
+Canada starts with the letter 'D'.,false
+Canada starts with the letter 'E'.,false
+
+Title:
+We Love Australia
+Question:
+Australia starts with…?
+Answers:
+Australia starts with the letter 'A'.,true
+Australia starts with the letter 'B'.,false
+Australia starts with the letter 'C'.,false
+Australia starts with the letter 'D'.,false
+Australia starts with the letter 'E'.,false
+
+Title:
+We Love Rome
+Question:
+Rome starts with…?
+Answers:
+Rome starts with the letter 'A'.,false
+Rome starts with the letter 'B'.,false
+Rome starts with the letter 'C'.,false
+Rome starts with the letter 'D'.,false
+Rome starts with the letter 'R'.,true
+
